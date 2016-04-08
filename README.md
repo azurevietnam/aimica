@@ -1,0 +1,2 @@
+# aimica
+Templates Joomla aimica
